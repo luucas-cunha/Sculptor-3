@@ -187,4 +187,6 @@ Em seguida, confirme se você deseja ou não fechar o programa.
 <br>
 <br>
 <br>
-#### Desenvolvido por Lucas Cunha Alves, para a disciplina de Programação Avançada (DCA1202) da UFRN.
+<br>
+<br>
+Desenvolvido por Lucas Cunha Alves, para a disciplina de Programação Avançada (DCA1202) da UFRN.
