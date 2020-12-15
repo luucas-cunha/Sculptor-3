@@ -181,9 +181,11 @@ Para fechar o programa, você deve abrir o menu Arquivo e clicar no <b>terceiro 
 </p>
 
 <p align="justify">
-Em seguida, confirme se você deseja ou não fechar o programa.
+Em seguida, confirme se você deseja ou não fechar o programa. Caso clique no botão <b>OK</b>, o programa será encerrado.
 </p>
 
+<br>
+<br>
 <br>
 <br>
 <br>
