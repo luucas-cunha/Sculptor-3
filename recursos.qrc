@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/icones">
+        <file alias="cutbox">recursos/cutbox.png</file>
+        <file alias="cutellipsoid">recursos/cutellipsoid.png</file>
+        <file alias="cutsphere">recursos/cutsphere.png</file>
+        <file alias="cutvoxel">recursos/cutvoxel.png</file>
+        <file alias="exit">recursos/exit.png</file>
+        <file alias="new">recursos/new.png</file>
+        <file alias="putbox">recursos/putbox.png</file>
+        <file alias="putellipsoid">recursos/putellipsoid.png</file>
+        <file alias="putsphere">recursos/putsphere.png</file>
+        <file alias="putvoxel">recursos/putvoxel.png</file>
+        <file alias="save">recursos/save.png</file>
+    </qresource>
+</RCC>
