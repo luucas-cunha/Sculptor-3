@@ -1,0 +1,20 @@
+var searchData=
+[
+  ['changealpha_90',['changeAlpha',['../class_plotter.html#a51216654fc6a0a299fa0ea95a5b50c93',1,'Plotter']]],
+  ['changeblue_91',['changeBlue',['../class_plotter.html#a8352479b3dc2705d87bc380c205a91e6',1,'Plotter']]],
+  ['changedepth_92',['changeDepth',['../class_plotter.html#a2caf0657fe94dcb4155bdfd070da5566',1,'Plotter']]],
+  ['changedimensionx_93',['changeDimensionX',['../class_plotter.html#ad0ec1f19dcd6cd45f0bac4b94b70b925',1,'Plotter']]],
+  ['changedimensiony_94',['changeDimensionY',['../class_plotter.html#ad3b0dc6d20e3abae3b4ebdd35030aeca',1,'Plotter']]],
+  ['changedimensionz_95',['changeDimensionZ',['../class_plotter.html#a867258982dad3651e80bb5bc7ab4d180',1,'Plotter']]],
+  ['changegreen_96',['changeGreen',['../class_plotter.html#a57e65cd9be93cad16fd4cec53d9100f8',1,'Plotter']]],
+  ['changeradius_97',['changeRadius',['../class_plotter.html#a817dc19fa712beb77fc9173f3a504e95',1,'Plotter']]],
+  ['changeradiusx_98',['changeRadiusX',['../class_plotter.html#a8c4d2de6f77a59dd42149f11b6cd5c76',1,'Plotter']]],
+  ['changeradiusy_99',['changeRadiusY',['../class_plotter.html#a1f746dc896370dbbe4f880d2c7b7924b',1,'Plotter']]],
+  ['changeradiusz_100',['changeRadiusZ',['../class_plotter.html#a8c6e0195c11407792fc60cf96ce3c222',1,'Plotter']]],
+  ['changered_101',['changeRed',['../class_plotter.html#a2d37e5b9666027d3ae8376ac7ac43637',1,'Plotter']]],
+  ['creategrid_102',['createGrid',['../class_sculptor.html#af1317b04c3ace9cadef16294e58afdac',1,'Sculptor']]],
+  ['cutbox_103',['cutBox',['../class_plotter.html#a09dd52eb3c1ed9b94507643e8decbb6e',1,'Plotter::cutBox()'],['../class_sculptor.html#aa84a1b12b09e9e103fc8d78f8d1bc00f',1,'Sculptor::cutBox()']]],
+  ['cutellipsoid_104',['cutEllipsoid',['../class_plotter.html#ab72cc653698a889cfe466f5b30c3adef',1,'Plotter::cutEllipsoid()'],['../class_sculptor.html#a18d2922c111c4c13653ee07d878151ad',1,'Sculptor::cutEllipsoid()']]],
+  ['cutsphere_105',['cutSphere',['../class_plotter.html#a378ffbefc23e1a7a550762d4788c539a',1,'Plotter::cutSphere()'],['../class_sculptor.html#a67ab8c0ba5116adb8af1d01ad373ac15',1,'Sculptor::cutSphere()']]],
+  ['cutvoxel_106',['cutVoxel',['../class_plotter.html#a465e39876201b814d39928f6eef79b05',1,'Plotter::cutVoxel()'],['../class_sculptor.html#ad9d714a35fc8ae16d06eb5df37c3493c',1,'Sculptor::cutVoxel()']]]
+];
