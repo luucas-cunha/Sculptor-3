@@ -20,7 +20,7 @@ A interface consiste em:
 2. <b>Barra de ferramentas</b>: localizada logo abaixo do menu Arquivo, contém as funcionalidades de <b>inserir voxel</b>, <b>remover voxel</b>, <b>inserir caixa</b>, <b>remover caixa</b>, <b>inserir esfera</b>, <b>remover esfera</b>, <b>inserir elipsoide</b> e <b>remover elipsoide</b>, utilizadas para manipular figuras geométricas.
 </p>
 <p align="justify">
-3. <b>Escultor</b>: localizado logo abaixo da barra de ferramentas, é a <b>área similar a um tabuleiro</b>, que é destinada ao desenho da <b>escultura tridimensional</b>.
+3. <b>Escultor</b>: localizado logo abaixo da barra de ferramentas, é a <b>área semelhante a um tabuleiro</b>, que é destinada ao desenho da <b>escultura tridimensional</b>.
 </p>
 <p align="justify">
 4. <b>Seletor de profundidade</b>: localizado logo abaixo do escultor, tem a função de permitir que você altere o plano visível da sua escultura tridimensional (como se estivesse cortando-a em várias "fatias"), conforme modifica o valor do controle deslizante <b>Z</b>.
@@ -124,16 +124,32 @@ Para remover um elipsoide da escultura, você deve clicar no <b>oitavo ícone</b
 <img src="https://user-images.githubusercontent.com/71016225/102269874-031f5d80-3efc-11eb-9446-b24253a35045.png">
 </p>
 
+<p align="justify">
+Para criar um novo escultor, você deve abrir o menu Arquivo e clicar no <b>primeiro item</b> entre os exibidos. 
+</p>
+
 <p align="center">
 <img src="https://user-images.githubusercontent.com/71016225/102270020-3a8e0a00-3efc-11eb-88b5-56e0e3c229ab.png">
+</p>
+
+<p align="justify">
+Em seguida, confirme se você deseja ou não prosseguir para a criação do novo escultor. 
 </p>
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/71016225/102270049-437edb80-3efc-11eb-8e22-69e08a2623b3.png">
 </p>
 
+<p align="justify">
+Será exibida uma janela com 3 controles deslizantes, para que você selecione as dimensões do novo escultor. Para confirmar a escolha, clique no botão <b>Ok</b>.
+</p>
+
 <p align="center">
 <img src="https://user-images.githubusercontent.com/71016225/102270054-45e13580-3efc-11eb-9f12-d86ac717326f.png">
+</p>
+
+<p align="justify">
+O novo escultor substituirá o antigo.
 </p>
 
 ### Salvar Arquivo
@@ -142,8 +158,16 @@ Para remover um elipsoide da escultura, você deve clicar no <b>oitavo ícone</b
 <img src="https://user-images.githubusercontent.com/71016225/102270068-4c6fad00-3efc-11eb-8cb2-908b9f70ad50.png">
 </p>
 
+<p align="justify">
+
+</p>
+
 <p align="center">
 <img src="https://user-images.githubusercontent.com/71016225/102270092-5691ab80-3efc-11eb-98f7-c7f200781ff3.png">
+</p>
+
+<p align="justify">
+
 </p>
 
 ### Sair
@@ -152,6 +176,16 @@ Para remover um elipsoide da escultura, você deve clicar no <b>oitavo ícone</b
 <img src="https://user-images.githubusercontent.com/71016225/102270097-58f40580-3efc-11eb-891a-e63895040d52.png">
 </p>
 
+<p align="justify">
+
+</p>
+
 <p align="center">
 <img src="https://user-images.githubusercontent.com/71016225/102270108-5e515000-3efc-11eb-9932-9fbd7c653423.png">
 </p>
+
+<p align="justify">
+
+</p>
+
+#### Desenvolvido por Lucas Cunha Alves, para a disciplina de Programação Avançada (DCA1202) da UFRN.
