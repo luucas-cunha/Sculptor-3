@@ -141,7 +141,7 @@ Em seguida, confirme se você deseja ou não prosseguir para a criação do novo
 </p>
 
 <p align="justify">
-Será exibida uma janela com 3 controles deslizantes, para que você selecione as dimensões do novo escultor. Para confirmar a escolha, clique no botão <b>Ok</b>.
+Será exibida uma janela com 3 controles deslizantes, para que você selecione as dimensões do novo escultor. Para confirmar a escolha, clique no botão <b>OK</b>.
 </p>
 
 <p align="center">
@@ -149,7 +149,7 @@ Será exibida uma janela com 3 controles deslizantes, para que você selecione a
 </p>
 
 <p align="justify">
-O novo escultor substituirá o antigo.
+O antigo escultor será substituído por um novo, com as dimensões que você escolheu.
 </p>
 
 ### Salvar Arquivo
@@ -159,7 +159,7 @@ O novo escultor substituirá o antigo.
 </p>
 
 <p align="justify">
-
+Para salvar a sua escultura em um arquivo, você deve abrir o menu Arquivo e clicar no <b>segundo item</b> entre os exibidos.
 </p>
 
 <p align="center">
@@ -167,7 +167,7 @@ O novo escultor substituirá o antigo.
 </p>
 
 <p align="justify">
-
+Será exibida uma janela confirmando que o arquivo foi salvo no caminho que você escolheu.
 </p>
 
 ### Sair
@@ -177,7 +177,7 @@ O novo escultor substituirá o antigo.
 </p>
 
 <p align="justify">
-
+Para fechar o programa, você deve abrir o menu Arquivo e clicar no <b>terceiro item</b> entre os exibidos.
 </p>
 
 <p align="center">
@@ -185,7 +185,7 @@ O novo escultor substituirá o antigo.
 </p>
 
 <p align="justify">
-
+Em seguida, confirme se você deseja ou não fechar o programa.
 </p>
 
 #### Desenvolvido por Lucas Cunha Alves, para a disciplina de Programação Avançada (DCA1202) da UFRN.
