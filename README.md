@@ -34,10 +34,6 @@ A interface consiste em:
 
 ## Funcionalidades
 
-<p align="justify">
-Existem 8 funcionalidades que envolvem a manipulação de figuras geométricas. São as seguintes:
-</p>
-
 ### Inserir Voxel
 
 <p align="center">
@@ -167,7 +163,7 @@ Para salvar a sua escultura em um arquivo, você deve abrir o menu Arquivo e cli
 </p>
 
 <p align="justify">
-Será exibida uma janela confirmando que o arquivo foi salvo no caminho que você escolheu.
+Será exibida uma janela confirmando que o arquivo foi salvo no caminho que você especificou no <b>plotter.cpp</b>.
 </p>
 
 ### Sair
@@ -188,4 +184,7 @@ Para fechar o programa, você deve abrir o menu Arquivo e clicar no <b>terceiro 
 Em seguida, confirme se você deseja ou não fechar o programa.
 </p>
 
+<br>
+<br>
+<br>
 #### Desenvolvido por Lucas Cunha Alves, para a disciplina de Programação Avançada (DCA1202) da UFRN.
