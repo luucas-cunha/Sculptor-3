@@ -1,13 +1,35 @@
 # Escultor 3D
 
 <p align="justify">
-Trata-se de uma ferramenta desenvolvida em C++ que tem como objetivo permitir que o usuário tenha acesso a formas geométricas simples e possa utilizá-las para criar suas próprias esculturas tridimensionais, que poderão ser salvas em arquivos no formato .OFF e acessadas posteriormente. Para utilizar a ferramenta em diferentes computadores, é necessário abrir o arquivo <b>plotter.cpp</b>, ir até o slot chamado <b>saveFile</b> e alterar o caminho onde o arquivo será salvo.
+Trata-se de uma ferramenta desenvolvida em C++ que tem como objetivo permitir que o usuário tenha acesso a formas geométricas simples e possa utilizá-las para criar suas próprias esculturas tridimensionais, que poderão ser salvas em arquivos no formato .OFF e acessadas posteriormente. Para utilizar a ferramenta em seu computador, é necessário abrir o arquivo <b>plotter.cpp</b>, ir até o slot chamado <b>saveFile</b> e alterar o caminho onde o arquivo será salvo.
 </p>
 
 ## Interface 
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/71016225/102269629-afad0f80-3efb-11eb-94c7-ff18a848e338.png">
+</p>
+
+<p align="justify">
+A interface consiste em:
+</p>
+<p align="justify">
+1. <b>Menu Arquivo</b>: localizado no canto superior esquerdo da interface, contém as funcionalidades de <b>criar um novo escultor</b>, <b>salvar arquivo</b> e <b>sair do programa</b>.
+</p>
+<p align="justify">
+2. <b>Barra de ferramentas</b>: localizada logo abaixo do menu Arquivo, contém as funcionalidades de <b>inserir voxel</b>, <b>remover voxel</b>, <b>inserir caixa</b>, <b>remover caixa</b>, <b>inserir esfera</b>, <b>remover esfera</b>, <b>inserir elipsoide</b> e <b>remover elipsoide</b>, utilizadas para manipular figuras geométricas.
+</p>
+<p align="justify">
+3. <b>Escultor</b>: localizado logo abaixo da barra de ferramentas, é a área destinada ao desenho da <b>escultura tridimensional</b>.
+</p>
+<p align="justify">
+4. <b>Seletor de profundidade</b>: localizado logo abaixo do escultor, tem a função de permitir que você altere o plano visível da sua escultura tridimensional (como se estivesse cortando-a em várias "fatias"), conforme modifica o valor do controle deslizante <b>Z</b>.
+</p>
+<p align="justify">
+5. <b>Seletores de propriedades das figuras</b>: localizados no canto direito da interface, eles alteram os atributos das figuras geométricas que estão identificadas por seus nomes no topo de cada grupo de controles deslizantes. 
+</p>
+<p align="justify">
+6. <b>Seletores de cor</b>: localizados logo abaixo dos seletores de propriedades das figuras, eles permitem que você defina uma cor que será utilizada para pintar as figuras geométricas utilizadas na sua escultura tridimensional, conforme modifica o valor dos controles deslizantes <b>R</b> (tonalidade de cor vermelha), <b>G</b> (tonalidade de cor verde), <b>B</b> (tonalidade de cor azul) e <b>A</b> (transparência). A cor escolhida pode ser visualizada ao lado dos controles deslizantes.
 </p>
 
 ## Funcionalidades
